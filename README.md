@@ -1,12 +1,12 @@
 # Phishing Email Analysis Report
 
-## 📧 Sample Email Content:
+## Sample Email Content:
 
 **From:** help@paypa1.com  
 **Subject:** Your PayPal account is suspended  
 
 **Body:**
-Dear user,
+Hii there,
 
 We have detected unusual activity in your PayPal account.
 Please click the link below to verify your account and avoid permanent suspension.
@@ -19,7 +19,7 @@ PayPal Security Team
 
 ---
 
-## 🔍 Phishing Indicators Found:
+## Phishing Indicators Found:
 
 1. **Fake Sender Email Address:**  
    - `help@paypa1.com` is not from the official PayPal domain.
@@ -41,7 +41,7 @@ PayPal Security Team
 
 ---
 
-## 🛠️ Tools Used:
+## Tools Used:
 
 - **MXToolbox Email Header Analyzer:** To analyze the email headers (optional)
 - **VirusTotal:** To scan the suspicious URL
@@ -49,7 +49,7 @@ PayPal Security Team
 
 ---
 
-### 🔍 Screenshots (Proof of Analysis)
+### Screenshots (Proof of Analysis)
 
 - Hover-over link preview:
   ![Hover](HoverLinkRecord.png)
@@ -61,7 +61,7 @@ PayPal Security Team
   ![VT](VirusTotalRecord.png)
 
 
-## 🧠 What I Learned:
+## What I Learned:
 
 - How to spot a spoofed email address
 - How phishing emails use fear and urgency to trick users
@@ -69,7 +69,7 @@ PayPal Security Team
 
 ---
 
-## ✅ Conclusion:
+## Conclusion:
 
 This email has multiple phishing characteristics:
 - Fake sender domain
