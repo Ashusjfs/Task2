@@ -49,6 +49,18 @@ PayPal Security Team
 
 ---
 
+### 🔍 Screenshots (Proof of Analysis)
+
+- Hover-over link preview:
+  ![Hover](HoverLinkRecord.png)
+
+- Email header analyzed using MXToolbox:
+  ![Header](MXToolboxRecord.png)
+
+- URL scanned with VirusTotal:
+  ![VT](VirusTotalRecord.png)
+
+
 ## 🧠 What I Learned:
 
 - How to spot a spoofed email address
